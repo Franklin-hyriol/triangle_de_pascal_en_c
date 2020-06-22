@@ -1,0 +1,1 @@
+# triangle_de_pascal_en_c
